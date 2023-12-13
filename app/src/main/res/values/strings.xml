@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGithubSearchUser</string>
+    <string name="followers">Followers %d</string>
+    <string name="following">Following %d</string>
+    <string name="cari_pengguna">Cari pengguna</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorite</string>
+    <string name="dark_mode">Dark mode</string>
+
+</resources>

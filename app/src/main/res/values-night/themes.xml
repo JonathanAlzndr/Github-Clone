@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyGithubSearchUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorOnPrimary">@color/textColorDark</item>
+        <item name="colorSecondary">@color/AccentColor</item>
+        <item name="colorSecondaryVariant">@color/AccentColor</item>
+    </style>
+</resources>
