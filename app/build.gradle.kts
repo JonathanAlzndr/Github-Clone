@@ -8,6 +8,7 @@ plugins {
 android {
     namespace = "com.jonathan.mygithubsearchuser"
     compileSdk = 34
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "com.jonathan.mygithubsearchuser"
